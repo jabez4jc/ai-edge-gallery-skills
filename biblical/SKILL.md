@@ -1,5 +1,5 @@
 ---
-name: biblical-writing-standards
+name: biblical
 description: Use for any biblical writing, devotional, doctrine, prayer, song, theological research, or any question about God, Jesus, the Holy Spirit, salvation, sin, repentance, or Christian living.
 version: 1.0.0
 ---
